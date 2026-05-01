@@ -30,33 +30,43 @@ The portfolio artifacts include a final written reflection and an Agile presenta
 
 ## Portfolio Reflection
 
-### How Do I Interpret User Needs and Implement Them Into a Program? How Does Creating User Stories Help With This?
+### How Do I Interpret User Needs and Implement Them Into a Program?
 
-Interpreting user needs requires actively engaging with stakeholders and understanding their goals. Those goals are then translated into features or functionality that the program must deliver.
+Interpreting user needs begins with understanding the goals, problems, and expectations of the people who will use the software. In Agile development, those needs are often translated into user stories so the team can focus on delivering value from the user’s perspective.
 
-In Agile, user stories help make this process clearer because they describe the product from the user’s perspective. A user story helps developers focus on who the feature is for, what the user needs, and why the feature matters.
+User stories help clarify who the feature is for, what the user needs, and why the feature matters. This makes it easier to prioritize work, define acceptance criteria, and ensure that development stays aligned with stakeholder expectations.
 
-By focusing on user stories, developers can align their work with real user needs and ensure that each part of the program provides value. This also supports incremental improvement because each user story can be treated as a smaller, manageable unit of work that can be developed, tested, reviewed, and improved over time.
+By breaking user needs into smaller, testable pieces of work, a development team can build the product incrementally, gather feedback, and adjust the solution as requirements become clearer.
 
-### How Do I Approach Developing Programs? What Agile Processes Do I Hope to Incorporate Into My Future Development Work?
+### How Do I Approach Developing Programs?
 
-I approach developing programs by using an Agile mindset that emphasizes iterative development, continuous feedback, and flexibility. This process begins with gathering requirements and converting them into user stories in a prioritized backlog.
+I approach software development as an iterative process. Instead of trying to build everything at once, I focus on understanding the requirements, breaking work into smaller tasks, implementing those tasks, testing the results, and improving the product based on feedback.
 
-From there, the most important user stories can be selected for each sprint so the product is developed incrementally. Testing and review help confirm that the work meets requirements and provides value to the user.
+Agile practices support this process by encouraging short development cycles, continuous communication, and regular review. Sprint planning helps organize work, daily standups help surface blockers, sprint reviews help confirm progress with stakeholders, and retrospectives help the team improve its process.
 
-In future development work, I hope to incorporate Agile practices such as sprint planning, backlog refinement, daily standups, sprint reviews, retrospectives, continuous integration, and regular feedback loops. These practices support continuous improvement and help teams adapt when requirements change.
+In future development work, I would continue using Agile practices such as backlog refinement, sprint planning, sprint reviews, retrospectives, continuous integration, and frequent feedback loops. These practices help teams stay flexible when requirements change and make it easier to deliver useful software incrementally.
 
 ### What Does It Mean to Be a Good Team Member in Software Development?
 
-Being a good team member in software development means contributing to shared goals while supporting collaboration, communication, and accountability. A strong team member communicates clearly, shares knowledge, helps remove obstacles, accepts feedback, and stays flexible when priorities change.
+Being a good team member in software development means contributing to the shared goal while supporting communication, accountability, and collaboration. A strong team member communicates clearly, follows through on assigned work, asks questions when requirements are unclear, and helps identify issues before they become larger problems.
 
-In an Agile environment, this includes participating in daily scrums, giving and receiving feedback during sprint reviews, and contributing ideas during retrospectives. Good team members help the team improve its process, maintain alignment, and stay focused on delivering value.
+In an Agile environment, good team members participate in sprint planning, daily standups, reviews, and retrospectives. They give and receive feedback professionally, help remove blockers, and stay focused on delivering value to the user.
 
-Tools such as Jira can support this process by making tasks visible, clarifying responsibilities, tracking progress, and helping the team stay aligned on sprint goals.
+A good team member also supports continuous improvement. This means reflecting on what worked, identifying what did not, and helping the team improve its process over time.
+
+## Agile Practices Highlighted
+
+- User stories for translating needs into development tasks
+- Product backlog organization and prioritization
+- Sprint planning for selecting achievable work
+- Daily standups for communication and blocker identification
+- Sprint reviews for stakeholder feedback
+- Retrospectives for process improvement
+- Iterative development for adapting to changing requirements
 
 ## Project Value
 
-This project shows my understanding of Agile software development beyond coding alone. It demonstrates my ability to interpret user needs, explain the value of user stories, understand iterative development, reflect on team processes, and describe how Agile practices support better software outcomes.
+This project shows my understanding of Agile software development beyond writing code alone. It demonstrates my ability to interpret user needs, explain the value of user stories, understand iterative development, reflect on team processes, and describe how Agile practices support better software outcomes.
 
 This portfolio artifact is most relevant for roles involving software engineering, QA/testing, project coordination, application support, business analysis, Scrum/Agile teams, and collaborative development environments.
 
@@ -66,3 +76,7 @@ This portfolio artifact is most relevant for roles involving software engineerin
 - Add a short summary of the sprint review artifact
 - Add examples of user stories or backlog items if available
 - Organize written artifacts into a `docs/` folder if more files are added
+
+## Academic Portfolio Notice
+
+This repository is shared as an academic portfolio artifact. It may include coursework documentation and assignment-specific material created for an educational setting. Please do not reuse, submit, or redistribute this work as your own.
